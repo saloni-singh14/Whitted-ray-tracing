@@ -1,0 +1,27 @@
+var NAVTREEINDEX0 =
+{
+"_output.html":[1],
+"_output.html#Night":[1,2],
+"_output.html#cornell":[1,0],
+"_output.html#sky":[1,1],
+"features.html":[2],
+"features.html#f1":[2,0,0],
+"features.html#f2":[2,0,1],
+"features.html#f3":[2,0,2],
+"features.html#hhhhh":[2,0],
+"implementation.html":[3],
+"implementation.html#bvhghvhg":[3,0],
+"implementation.html#intersection":[3,0,3],
+"implementation.html#main":[3,0,0],
+"implementation.html#phong":[3,0,2],
+"implementation.html#radiance":[3,0,1],
+"index.html":[0],
+"index.html":[],
+"index.html#propose":[0,1],
+"index.html#references":[0,2],
+"index.html#s1":[0,0],
+"index.html#w1":[0,0,0],
+"index.html#w2":[0,0,2],
+"index.html#w3":[0,0,1],
+"pages.html":[]
+};
